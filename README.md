@@ -9,4 +9,4 @@ Welcome to the lecture CASA0013 "Foundation for Spatial Data Science", year 2021
   - Read and discuss about "Data & Ethics" - Where do data come from? How can they be used, abused?
 
 ##### Tips & Tricks 
-- Every week I will upload on this github tips & tricks to success in the practical sessions. Feel free to have a look at it :-) 
+- Every week I will upload on this github tips & tricks to succeed in the practical sessions. Feel free to have a look at it :-) 
