@@ -10,3 +10,4 @@ Welcome to the lecture CASA0013 "Foundation for Spatial Data Science", year 2021
 
 ##### Tips & Tricks 
 - Every week I will upload on this github tips & tricks to succeed in the practical sessions. Feel free to have a look at it :-) 
+- [Python Documentation website](https://docs.python.org/3/)
