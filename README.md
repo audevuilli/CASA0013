@@ -1,5 +1,7 @@
-## CASA0013
-### UCL Module CASA0013 - Foundation for Spatial Data Science ![](img/casa_log.jpg)
+## CASA0013 
+<img src ="/img/casa_logo.jpg" align="right" height=60 style="float">
+
+### UCL Module CASA0013 - Foundation for Spatial Data Science
 Welcome to the lecture CASA0013 "Foundation for Spatial Data Science", year 2021/2022. My name is Aude and I am a teaching assistant for the module. I look forward to supporting you in your learning and exploring how to start with programming. 
 
 
